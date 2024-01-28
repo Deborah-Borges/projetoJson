@@ -1,0 +1,13 @@
+.banner {
+    /* margin-top: 100px; */
+    background: linear-gradient(rgba(56, 55, 55, 0.301), rgba(67, 145, 182, 0.65)),
+    url('https://e1.pxfuel.com/desktop-wallpaper/140/345/desktop-wallpaper-roller-skate.jpg')
+      no-repeat;
+  background-size: cover; /* ou 'contain', dependendo da preferência */
+  background-position: center;
+    min-height: 100vh;
+}
+
+.text {
+  width: 35%;
+}

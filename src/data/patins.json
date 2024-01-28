@@ -1,0 +1,10 @@
+[{
+    "id": 1,
+    "name": "Rossi",
+    "number": "01",
+    "age": 28,
+    "nationality": "Argentino",
+    "position": "Goleiro",
+    "image": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/1/1688672634.jpeg",
+    "teams": [{"id": 1, "team": "Flamengo"}, {"id": 2, "team": "Boca Juniors"}]
+}]
